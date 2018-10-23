@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="TAW, Módulo 2, Exercício 1">
+    <meta name="keywords" content="HTML, TAW">
+    <meta name="author" content="Vitor Oliveira">
+    <title>TAW-MOD2-EX1</title>
+</head>
+<body>
+    <h1>1º Cabeçalho</h1>
+    <p>1º parágrafo, bla bla bla bla bla bla bla</p>
+    <hr>
+    <p><b>Parágrafo com texto a negrito</b></p>
+    <p><i>Parágrafo com texto em itálico</i></p>
+    <pre>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua.
+        Egestas sed tempus urna et pharetra. 
+            Amet facilisis magna etiam tempor. Risus viverra
+                adipiscing at in tellus integer feugiat scelerisque. Ut placerat orci nulla
+                    pellentesque dignissim enim sit amet. Sit amet cursus sit amet dictum sit
+                        amet justo. Neque ornare aenean euismod elementum.
+    </pre>
+    <a href="http://www.esmad.ipp.pt" target="_blank">Site do ESMAD</a>     
+</body>
+</html>
